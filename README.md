@@ -6,7 +6,7 @@
 
 Windows, macOS, Java, Jira, Selenium, Python, PostgreSQL, Git, Github, REST API, Apache JMeter
 
- ### Мои навыки
+### Мои навыки
 
 - Ручное тестирование 
 - GIT, система контроля версий
