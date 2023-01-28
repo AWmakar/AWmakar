@@ -4,7 +4,7 @@
 
 ### Ключевые навыки
 
- Windows, macOS, Java, Jira, Selenium, Python, PostgreSQL, Git, Github, REST API
+<!--  Windows, macOS, Java, Jira, Selenium, Python, PostgreSQL, Git, Github, REST API, Apache JMeter -->
 
  ### Мои навыки
 
