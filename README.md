@@ -2,7 +2,7 @@
 
 Я <b>Макаров Андрей</b>, Инженер по тестированию.
 
-### Ключевые навыки
+### Мой стек
 
 Windows, macOS, Java, Jira, Selenium, Python, PostgreSQL, Git, Github, REST API, Apache JMeter
 
