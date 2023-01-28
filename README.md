@@ -13,7 +13,7 @@
 - HTML\CSS 
 - Основы SQL 
   
-  ### Сертификаты Нетологии
+  ### Сертификаты
 
 - Ручное тестирование (https://github.com/AWmakar/AWmakar/blob/main/qa.pdf)
 
