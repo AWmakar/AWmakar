@@ -8,15 +8,15 @@ Windows, macOS, Java, Jira, Selenium, Python, PostgreSQL, Git, Github, REST API,
 
 ### Мои навыки
 
-- Ручное тестирование 
+- Ручное тестирование [Курсовой проект к модулю «Ручное тестирование веб-приложений»](https://github.com/AWmakar/iqa-diplom)
 - GIT, система контроля версий
 - HTML\CSS 
 - Основы SQL 
   
   ### Сертификаты
 
-- Ручное тестирование (https://github.com/AWmakar/AWmakar/blob/main/qa.pdf)
+- [Ручное тестирование](https://github.com/AWmakar/AWmakar/blob/main/qa.pdf)
 
-- Git — система контроля версий (https://github.com/AWmakar/AWmakar/blob/main/Git.pdf)
+- [Git — система контроля версий](https://github.com/AWmakar/AWmakar/blob/main/Git.pdf)
 
-- Postman для тестирования API (https://github.com/AWmakar/AWmakar/blob/main/API.pdf)
+- [Postman для тестирования API](https://github.com/AWmakar/AWmakar/blob/main/API.pdf)
