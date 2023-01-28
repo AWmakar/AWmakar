@@ -15,8 +15,8 @@
   
   ### Сертификаты Нетологии
 
-- Ручное тестирование 
+- Ручное тестирование (https://github.com/AWmakar/AWmakar/blob/main/qa.pdf)
 
 - Git — система контроля версий (https://github.com/AWmakar/AWmakar/blob/main/Git.pdf)
 
-- Postman для тестирования API 
+- Postman для тестирования API (https://github.com/AWmakar/AWmakar/blob/main/API.pdf)
