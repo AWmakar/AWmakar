@@ -4,7 +4,7 @@
 
 ### Мой стек
 
-Windows, macOS, Java, Jira, Selenium, Python, PostgreSQL, Git, Github, REST API, Apache JMeter
+Windows, macOS, Postman, Jira, PostgreSQL, Git, Github, REST API, Apache JMeter
 
 ### Мои навыки
 
