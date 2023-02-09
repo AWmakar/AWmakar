@@ -20,3 +20,5 @@ Windows, macOS, Postman, Jira, Visual Studio Code, IntelliJ IDEA, PostgreSQL, Gi
 - [Git — система контроля версий](https://github.com/AWmakar/AWmakar/blob/main/Git.pdf)
 
 - [Postman для тестирования API](https://github.com/AWmakar/AWmakar/blob/main/API.pdf)
+
+- [Jira: ведение задач на электронных досках](https://github.com/AWmakar/AWmakar/blob/main/Jira.pdf)
