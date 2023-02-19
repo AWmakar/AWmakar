@@ -17,6 +17,8 @@ Windows, macOS, Postman, Jira, Visual Studio Code, IntelliJ IDEA, PostgreSQL, Gi
 
 - [Ручное тестирование](https://github.com/AWmakar/AWmakar/blob/main/qa.pdf)
 
+- [SQL — работа с базами данных](https://github.com/AWmakar/AWmakar/blob/main/SQL.pdf)
+
 - [Git — система контроля версий](https://github.com/AWmakar/AWmakar/blob/main/Git.pdf)
 
 - [Postman для тестирования API](https://github.com/AWmakar/AWmakar/blob/main/API.pdf)
